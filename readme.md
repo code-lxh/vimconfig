@@ -44,8 +44,11 @@ _Have fun._
 #### 快捷键绑定
 
 __F3__ 触发nerdtree，__F4__ 触发tagbar。
+
 __F5__ 一键编译python文件。
-__F8__ 堆markdown文件在Chrome下预览(仅在Mac系统下有效)。
+
+__F8__ 对markdown文件在Chrome下预览(仅在Mac系统下有效)。
+
 还用其他更多的快捷键。
 
 
