@@ -27,12 +27,13 @@ _Have fun._
 
 ---
 
-这个.vimrc文件是基于python和markdown基本使用的一个配置.
+这个.vimrc文件是基于python和markdown使用的一个vim配置。
 
 在使用这个.vimrc配置之前，请对原有的.vimrc文件做好备份。
 
 #### 特色
-自动以下插件
+>包含以下插件
+
 * nerdtree
 * tagbar 
 * snipmate
